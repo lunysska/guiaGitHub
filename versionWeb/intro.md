@@ -7,5 +7,7 @@ Se usará de manera simple la interfaz gráfica que provee el sitio de git-hub.
 ### El repositorio
 
 #### 1. Crear el repositorio
+- Ir a la opción de "Repositorios"
+- Elegir la opción de nuevo "new"
 
 ![](creandoRepositorio.jpeg)
