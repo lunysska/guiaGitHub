@@ -20,3 +20,9 @@ Se usará de manera simple la interfaz gráfica que provee el sitio de git-hub.
 
 ![](opcionesRepositorio.jpeg)
 
+#### 3. El repositorio ya quedó listo
+- Puedes verificar que tu repositorio ya quedó listo
+- Incluye un archivo README.md, que es la extensión para *markdown*
+- Puedes editar este archivo, para agregar tu nombre, o una explicación de qué va este proyecto, para eso usas la opción del ícono de *lápiz*
+
+
