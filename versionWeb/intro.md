@@ -33,8 +33,10 @@ Para este caso compartiremos el respositorio con la titular del curso
 #### 5. Crear directorios dentro del repositorio
 Hacer carpetas dentro de un repositorio es indispensable para mantener comunicación con otros colaboradores
 - Haremos el directorio **clasesYMetodos**
-- Como no deja crear directorios vacios, aprovecharemos para crear un archivo explicativo **README.txt** (pon mucha atención en el nombre, que va de mayúsculas y tiene una extensión .txt)
 - Se usa la opción **Add file->Create new file**
-
+- En el campo de texto se pone el nombre del directorio, usando diagonales, se van creando los directorios de manera automática
+- Al final se pone el nombre del Archivo, en este caso, como no deja crear directorios vacios, aprovecharemos para crear un archivo explicativo **README.txt** (pon mucha atención en el nombre, que va de mayúsculas y tiene una extensión .txt)
+- En el area de edición se da un texto explicativo de lo que trata ese ejercicio. Ahí coloquen todo el texto que les ayude posteriormente a recordar lo que hicieron, junto con sus datos y fecha, etc.
+- Y se oprime la opción "Commit changes" para que se muestre el cambio.
 ![](directoriosRepositorio.jpeg)
 
