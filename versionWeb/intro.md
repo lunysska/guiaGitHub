@@ -10,8 +10,9 @@ Se usará de manera simple la interfaz gráfica que provee el sitio de git-hub.
 - Ir a la opción de "Repositorios"
 - Elegir la opción de nuevo "new"
 
-![](creandoRepositorio.jpeg) <br><br>
+![](creandoRepositorio.jpeg) 
 
+#### 2. Elegir las opciones para el repositorio
 - Elegir el nombre del repositorio **programacionPython**
 - Elegir la privacidad a privado **private**
 - Agregar un READEME, elegir que si **palomita activada**
