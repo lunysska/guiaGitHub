@@ -8,4 +8,4 @@ Se usará de manera simple la interfaz gráfica que provee el sitio de git-hub.
 
 #### 1. Crear el repositorio
 
-![texto_alternativo](creandoRepositorio.jpeg){width=200 height=100}
+![creando el repositorio](creandoRepositorio.jpeg){width=200 height=100}
