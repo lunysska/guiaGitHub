@@ -49,4 +49,9 @@ Ya solo falta subir archivos, de cualquer extensión **.py**
 - sólo hay que asegurarse que los archivos que se enlistan son los que necesitas subir
 - si el nombre de un archivo ya existe, se reemplaza sin preguntarte
 ![](seleccionadosRepositorio.jpeg)
+
+### Referencias
+
+[https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-new-repository](https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-new-repository)
+
   
