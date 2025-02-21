@@ -40,3 +40,13 @@ Hacer carpetas dentro de un repositorio es indispensable para mantener comunicac
 - Y se oprime la opción "Commit changes" para que se muestre el cambio.
 ![](directoriosRepositorio.jpeg)
 
+#### 6. Subir archivos
+Ya solo falta subir archivos, de cualquer extensión **.py**
+- Identificar la opción **Add file->Upload files**
+- Se pueden *seleccionar* más de un archivo
+![](archivosRepositorio.jpeg)
+
+- sólo hay que asegurarse que los archivos que se enlistan son los que necesitas subir
+- si el nombre de un archivo ya existe, se reemplaza sin preguntarte
+![](seleccionadosRepositorio.jpeg)
+  
