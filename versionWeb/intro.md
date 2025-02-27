@@ -54,4 +54,5 @@ Ya solo falta subir archivos, de cualquer extensión **.py**
 
 - [https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-new-repository](https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-new-repository)
 - [https://rogerdudler.github.io/git-guide/index.es.html](https://rogerdudler.github.io/git-guide/index.es.html)
+- [https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
   
