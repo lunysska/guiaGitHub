@@ -52,6 +52,6 @@ Ya solo falta subir archivos, de cualquer extensión **.py**
 
 ### Referencias
 
-[https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-new-repository](https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-new-repository)
-
+- [https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-new-repository](https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-new-repository)
+- [https://rogerdudler.github.io/git-guide/index.es.html](https://rogerdudler.github.io/git-guide/index.es.html)
   
