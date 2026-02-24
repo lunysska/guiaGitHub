@@ -12,7 +12,7 @@ Se usará de manera simple la interfaz gráfica que provee el sitio de git-hub.
 ![](creandoRepositorio.jpeg) 
 
 ### 2. Elegir las opciones para el repositorio
-- Elegir el nombre del repositorio **programacionPython**
+- Elegir el nombre del repositorio **programacion-2026**
 - Elegir la privacidad a privado **private**
 - Agregar un READEME, elegir que si **palomita activada**
 - Oprimir el botón de crear repositorio **Create repository**
