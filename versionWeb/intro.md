@@ -1,18 +1,17 @@
-# Uso sencillo de git-hub 
+# Manual simple de git-hub, versión Web 
 
 ## Objetivo 
 Esta guía es para iniciar a usuarios básicos en la programación y en el uso de herramientas para almacenar códigos.
 Se usará de manera simple la interfaz gráfica que provee el sitio de git-hub.
 
-### El repositorio
-
-#### 1. Crear el repositorio
+## A. Crear el repositorio
+### 1. Opciones para crear el repositorio
 - Ir a la opción de "Repositorios"
 - Elegir la opción de nuevo "new"
 
 ![](creandoRepositorio.jpeg) 
 
-#### 2. Elegir las opciones para el repositorio
+### 2. Elegir las opciones para el repositorio
 - Elegir el nombre del repositorio **programacionPython**
 - Elegir la privacidad a privado **private**
 - Agregar un READEME, elegir que si **palomita activada**
@@ -20,15 +19,15 @@ Se usará de manera simple la interfaz gráfica que provee el sitio de git-hub.
 
 ![](opcionesRepositorio.jpeg)
 
-#### 3. El repositorio ya quedó listo
+### 3. El repositorio ya quedó listo
 - Puedes verificar que tu repositorio ya quedó listo
 - Incluye un archivo README.md, que es la extensión para *markdown*
 - Puedes editar este archivo, para agregar tu nombre, o una explicación de qué va este proyecto, para eso usas la opción del ícono de *lápiz*
 
-#### 4. Compartir un repositorio
+## B. Compartir un repositorio
 Hay ocasiones que se requiere compartir un repositorio con otros colaboradores
-Para este caso compartiremos el respositorio con la titular del curso
-- Este paso se puede ver en correos pasados
+Para este caso compartiremos el repositorio con la titular del curso y con el ayudante.
+
 
 #### 5. Crear directorios dentro del repositorio
 Hacer carpetas dentro de un repositorio es indispensable para mantener comunicación con otros colaboradores
