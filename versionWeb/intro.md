@@ -25,9 +25,12 @@ Se usará de manera simple la interfaz gráfica que provee el sitio de git-hub.
 - Puedes editar este archivo, para agregar tu nombre, o una explicación de qué va este proyecto, para eso usas la opción del ícono de *lápiz*
 
 ## B. Compartir un repositorio
-Hay ocasiones que se requiere compartir un repositorio con otros colaboradores
+Hay ocasiones que se requiere compartir un repositorio con otros colaboradores<br>
 Para este caso compartiremos el repositorio con la titular del curso y con el ayudante.
 
+- Hay que irse a la opción **settings** del repositorio
+![](settingsRepositorio.png)
+  
 
 #### 5. Crear directorios dentro del repositorio
 Hacer carpetas dentro de un repositorio es indispensable para mantener comunicación con otros colaboradores
