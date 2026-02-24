@@ -30,8 +30,10 @@ Para este caso compartiremos el repositorio con la titular del curso y con el ay
 
 - Hay que irse a la opción **settings** del repositorio
 ![](settingsRepositorio.png)
-  
 
+- Luego a opción **Collaborators**
+- Y agregar a **lunysska@gmail.com**
+  
 #### 5. Crear directorios dentro del repositorio
 Hacer carpetas dentro de un repositorio es indispensable para mantener comunicación con otros colaboradores
 - Haremos el directorio **clasesYMetodos**
