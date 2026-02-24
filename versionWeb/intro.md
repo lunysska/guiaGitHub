@@ -39,7 +39,7 @@ Hacer carpetas dentro de un repositorio es indispensable para mantener comunicac
 - Haremos el directorio **clasesYMetodos**
 - Se usa la opción **Add file->Create new file**
 - En el campo de texto se pone el nombre del directorio, usando diagonales, se van creando los directorios de manera automática
-- Al final se pone el nombre del Archivo, en este caso, como no deja crear directorios vacios, aprovecharemos para crear un archivo explicativo **README.txt** (pon mucha atención en el nombre, que va de mayúsculas y tiene una extensión .txt)
+- Al final se pone el nombre del Archivo, en este caso, como no deja crear directorios vacios, aprovecharemos para crear un archivo explicativo **README.md** (pon mucha atención en el nombre, que va de mayúsculas y tiene una extensión .md)
 - En el area de edición se da un texto explicativo de lo que trata ese ejercicio. Ahí coloquen todo el texto que les ayude posteriormente a recordar lo que hicieron, junto con sus datos y fecha, etc.
 - Y se oprime la opción "Commit changes" para que se muestre el cambio.
 ![](directoriosRepositorio.jpeg)
